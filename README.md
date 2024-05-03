@@ -2,7 +2,7 @@
 
 Welcome to Track My Money where all your incomes and expenses are tracked so you don't have to wonder where your hard earned money went
 
-#About
+# About
 
 Track My Money is a webapp that can be used to keep track of all incomes and expenses so that you never have to wonder where you spent all your hard earned money.
 
