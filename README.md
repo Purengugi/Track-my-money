@@ -10,11 +10,11 @@ Track My Money is a webapp that can be used to keep track of all incomes and exp
 
 To run Track My Money locally, follow these steps:
 
-Clone the repository: 'https://github.com/Purengugi/Track-my-money.git'
-Navigate to the project directory: cd Track-my-money
-Install dependencies: npm install
-Start the server: npm start
-Open your browser and visit 'http://localhost:3000' to view the application.
+- Clone the repository: 'https://github.com/Purengugi/Track-my-money.git'
+- Navigate to the project directory: cd Track-my-money
+- Install dependencies: npm install
+- Start the server: npm start
+- Open your browser and visit 'http://localhost:3000' to view the application.
 
 # Technologies Used 
 
