@@ -14,7 +14,7 @@ return (
    <Card className={classes.root}>
     <CardHeader title="Track My Money" />
     <CardContent>
-        <Typography align="center" variant="h5">Total Balance: Rs {balance}</Typography>
+        <Typography align="center" variant="h5">Total Balance: Sh {balance}</Typography>
         <Typography variant="subtitle1" style={{lineHeight:'1.5em',marginTop:'20px'}} />
         
         <Divider className={classes.divider}/>
