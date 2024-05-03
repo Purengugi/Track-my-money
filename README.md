@@ -27,11 +27,11 @@ To run Track My Money locally, follow these steps:
 # Contributing
 We welcome contributions from the community to help improve MobileShopee. If you'd like to contribute, please follow these guidelines:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Make your changes and commit them: git commit -m 'Add your feature'.
-Push to the branch: git push origin feature/your-feature.
-Submit a pull request detailing your changes.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/your-feature.
+- Make your changes and commit them: git commit -m 'Add your feature'.
+- Push to the branch: git push origin feature/your-feature.
+- Submit a pull request detailing your changes.
 
 # Contact
 If you have any questions or suggestions, feel free to contact me at purity2004ngugi@gmail.com
