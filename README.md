@@ -32,6 +32,3 @@ We welcome contributions from the community to help improve MobileShopee. If you
 - Make your changes and commit them: git commit -m 'Add your feature'.
 - Push to the branch: git push origin feature/your-feature.
 - Submit a pull request detailing your changes.
-
-# Contact
-If you have any questions or suggestions, feel free to contact me at purity2004ngugi@gmail.com
